@@ -1,0 +1,1 @@
+# immutables-criteria-spring-boot-starter
